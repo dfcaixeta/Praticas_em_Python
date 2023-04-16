@@ -10,12 +10,16 @@ Modificado/alterado: Daniel Caixeta @dfcaixeta em 15.abr.23 '''
 
 dec = int (input('Enter with decimal value: '))
 
+# Header to code piece
 print('')
 print('-' * 44)
 print('Decimal conversion for {} to another bases' .format(dec))
 print('-' * 44)
 
 print('')
+
+''' Used built-in functions bin(), oct() and hex() to convert the given
+decimal number into respective number systems.'''
 
 print(bin(dec), "in binary.")
 print(oct(dec), "in octal.")
