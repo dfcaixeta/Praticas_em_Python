@@ -65,13 +65,6 @@ print(f'Resultado {1}', sorted(random_list1))
 print(f'Resultado {2}', sorted(random_list2))
 print(f'Resultado {3}', sorted(random_list3))
 
-# EOF
-
-
-
-
-
-
 print('')
 
-
+# EOF
