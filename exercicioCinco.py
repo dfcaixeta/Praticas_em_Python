@@ -15,7 +15,7 @@ print()
 resultUm = (entraInt // 10)
 resultFinal = resultUm % 10
 
-print('O dígito da dezena é',resultFinal)
+print('O dígito da dezena é', resultFinal)
 
 print()
 
