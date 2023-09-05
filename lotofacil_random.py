@@ -28,9 +28,10 @@ Autor: Daniel Caixeta - 19.abr.2023 (versão atualizada - Inclusão dos números
 
 # Parâmetros de entrada.
 
-hots_numb = [3, 4, 7, 8, 9, 10, 11, 12, 14, 15, 18, 19, 20, 21, 23, 25] 
+hots_numb = [1, 5, 6, 8, 9, 10, 11, 14, 15, 16, 17, 18, 20, 21, 23, 24] 
 max_occur = [20, 25, 4, 12, 13, 23, 1, 7, 8, 11, 19, 24, 2, 10, 21, 9, 22, 3, 6, 14, 17]
 primes_numb = [2, 3, 5, 7, 11, 13, 17, 19, 23] # Parâmetro de entrada fixo (não varia)...
+fibonacci_numb = [1, 2, 3, 5, 8, 13, 21]
 
 # Combinação e ordenação das duas listas (hots_numb + max_occur -> join_list)
 
@@ -55,18 +56,26 @@ random.shuffle(unique_list)
 
 # print("Resultado: ", sorted(unique_list[0:15])) # Outro método para gerar uma lista ...
 
-# Criando 3 interações possíveis com os números processados ...
+# Criando 7 interações possíveis com os números processados ...
 
 random_list1 = random.sample(unique_list, 15)
 random_list2 = random.sample(unique_list, 15)
 random_list3 = random.sample(unique_list, 15)
+random_list4 = random.sample(unique_list, 15)
+random_list5 = random.sample(unique_list, 15)
+random_list6 = random.sample(unique_list, 15)
+random_list7 = random.sample(unique_list, 15)
 
 # Impressão das interações processadas.
 
-print('Resultado da interação para {3} interações:')
+print('Resultado da interação para {7} interações:')
 print(f'Resultado {1}', sorted(random_list1))
 print(f'Resultado {2}', sorted(random_list2))
 print(f'Resultado {3}', sorted(random_list3))
+print(f'Resultado {4}', sorted(random_list4))
+print(f'Resultado {5}', sorted(random_list5))
+print(f'Resultado {6}', sorted(random_list6))
+print(f'Resultado {7}', sorted(random_list7))
 
 print('')
 
