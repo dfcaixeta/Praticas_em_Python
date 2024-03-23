@@ -1,6 +1,6 @@
 # Praticas_em_Python
 
-###Práticas em Python através da construção de diversos códigos.
+Práticas em Python através da construção de diversos códigos.
 
 areaTriangulo.py => Programa em Python que calcula a área de um triângulo.
 
