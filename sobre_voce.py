@@ -5,9 +5,9 @@ Autor: Daniel Caixeta @dfcaixeta - 22.mar.2024
 '''
 
 # Entrada das informações.
-print('-' * 12)
+print('-' * 13)
 print('Sobre você ...')
-print('-' * 12)
+print('-' * 13)
 
 print()
 
