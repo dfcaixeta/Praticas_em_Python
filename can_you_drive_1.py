@@ -1,6 +1,6 @@
-''' Algoritmo em Python com estrutura condicional if que pergurta
-sem tem idade para dirigir. (Versão 1).
-autor: Daniel Caixeta @dfcaixeta em 01.jul.2023. '''
+''' Algoritmo em Python com estrutura condicional if que pergunta
+sem tem idade para dirigir. (Versão 1) (Versão em inglês)
+autor: Daniel Caixeta @dfcaixeta em 23.mar.2024. '''
 
 age = 18
 
