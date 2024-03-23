@@ -2,6 +2,8 @@
 
 Práticas em Python através da construção de diversos códigos.
 
+alunoCertificado.py => Programa em Python que informa se o(a) aluno(a) foi certificado.
+
 areaTriangulo.py => Programa em Python que calcula a área de um triângulo.
 
 average_grade.py => Algoritmo em Python que informa se o aluno conquistou o certificado ou não, usando a estrutura condicional (if) e operadores lógicos. (Código em inglês).
