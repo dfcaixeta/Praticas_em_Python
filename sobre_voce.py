@@ -1,4 +1,4 @@
-''' Algoritmo em Python. Fale sobre você?
+''' Algoritmo em Python. Fale sobre você.
 Desenvolvendo um minicurriculo (bio) para apresentação.
 
 Autor: Daniel Caixeta @dfcaixeta - 22.mar.2024
