@@ -1,5 +1,5 @@
 ''' Algoritmo em python que apresenta um calendário com ano e mês.
-É necessário importar a biblioteca (lib) calendar.
+É necessário importar a biblioteca (lib) calendar. 
 
 @utor: Daniel Caixeta - @dfcaixeta - 23.mar.2024 '''
 
