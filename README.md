@@ -18,6 +18,8 @@ f_string.py => Estudos o método de formatação f-strings em Python.
 
 sobre_voce.py => Algoritmo em Python. Fale sobre você. Desenvolvendo um minicurriculo (bio) para apresentação.
 
+Usando_operador_Walrus.py => Usando o operador Walrus (:=).
+
 voce_pode_dirigir_v_1.py => Algoritmo em Python com estrutura condicional if que pergunta sem tem idade para dirigir. (Versão 1).
 
 voce_pode_dirigir_v_2.py => Algoritmo em Python com estrutura condicional if e operador lógico AND que pergunta sem tem idade para dirigir. (Versão 2).
