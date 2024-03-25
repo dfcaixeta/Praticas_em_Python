@@ -28,3 +28,5 @@ voce_pode_dirigir_v_1.py => Algoritmo em Python com estrutura condicional if que
 
 voce_pode_dirigir_v_2.py => Algoritmo em Python com estrutura condicional if e operador lógico AND que pergunta sem tem idade para dirigir. (Versão 2).
 
+voce_pode_dirigir_v_3.py => Algoritmo em Python com estrutura condicional IF, operador lógico AND e  operador de comparação TRUE que pergunta sem tem idade para dirigir. (Versão 3).
+
