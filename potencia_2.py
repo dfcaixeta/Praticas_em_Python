@@ -1,6 +1,7 @@
 ''' Código em Python para exibição de potência de 2 (inteiros) usando uma 
 função anônima.
 Autor: https://www.programiz.com/python-programming/examples/power-anonymous
+
 Modificado/alterado: Daniel Caixeta @dfcaixeta em 11.abr.23 '''
 
 # Mostra a potência de 2 usando uma função anônima (lambda) no Python
