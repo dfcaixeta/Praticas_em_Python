@@ -1,6 +1,6 @@
 ''' Algoritmo em Python com estrutura condicional IF, operador lógico AND
 e operador de comparação TRUE que pergunta sem tem idade para dirigir.
-(Versão 3). (Versão inglês). 
+(Versão 3). (Versão inglês).
 
 autor: Daniel Caixeta @dfcaixeta em 24.mar.2024 '''
 
