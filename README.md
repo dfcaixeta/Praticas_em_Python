@@ -22,6 +22,8 @@ dec2bin.py => Código de conversão de números decimais em binários.
 
 f_string.py => Estudos o método de formatação f-strings em Python.
 
+potencia_2.py => Código em Python para exibição de potência de 2 (inteiros) usando uma função anônima (lambda)
+
 sobre_voce.py => Algoritmo em Python. Fale sobre você. Desenvolvendo um minicurriculo (bio) para apresentação.
 
 Usando_operador_Walrus.py => Usando o operador Walrus (:=).
