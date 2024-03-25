@@ -8,6 +8,8 @@ areaTriangulo.py => Programa em Python que calcula a área de um triângulo.
 
 average_grade.py => Algoritmo em Python que informa se o aluno conquistou o certificado ou não, usando a estrutura condicional (if) e operadores lógicos. (Código em inglês).
 
+calendario.py => Algoritmo em python que apresenta um calendário com ano e mês.
+
 can_you_drive_1.py => Algoritmo em Python com estrutura condicional if que pergunta sem tem idade para dirigir. (Versão 1) (Versão em inglês).
 
 can_you_drive_2.py => Algoritmo em Python com estrutura condicional IF e operador lógico AND que pergunta sem tem idade para dirigir. (Versão 2) (Versão em inglês).
