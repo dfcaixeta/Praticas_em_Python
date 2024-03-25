@@ -16,6 +16,8 @@ can_you_drive_1.py => Algoritmo em Python com estrutura condicional if que pergu
 
 can_you_drive_2.py => Algoritmo em Python com estrutura condicional IF e operador lógico AND que pergunta sem tem idade para dirigir. (Versão 2) (Versão em inglês).
 
+can_you_drive_3.py => Algoritmo em Python com estrutura condicional IF, operador lógico AND e operador de comparação TRUE que pergunta sem tem idade para dirigir. (Versão 3). (Versão inglês).
+
 dec2bin.py => Código de conversão de números decimais em binários.
 
 f_string.py => Estudos o método de formatação f-strings em Python.
