@@ -26,6 +26,8 @@ potencia_2.py => Código em Python para exibição de potência de 2 (inteiros) 
 
 script_grafico_dispercao.ipynb => Programa em Python que faz um gráfico de dispersão. Usando o jupyter notebook.
 
+script_grafico_linha.ipynb => Gráfico de linha em Python. Usando o Jupyter Notebook.
+
 sobre_voce.py => Algoritmo em Python. Fale sobre você. Desenvolvendo um minicurriculo (bio) para apresentação.
 
 Usando_operador_Walrus.py => Usando o operador Walrus (:=).
