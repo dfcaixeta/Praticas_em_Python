@@ -1,6 +1,11 @@
+''' Programa em Python que cria uma calculadora simples.
+Autor: unknow - Data: 30.mar.24 '''
+
+# Importando as bibliotecas necessárias.
 from os import system
 from formulas import *
 
+# Função que limpa a tela para a impressão dos elementos gráficos do print.
 system('cls')
 
 
@@ -26,6 +31,11 @@ ____ ____ _    ____ _  _ _    ____ ___  ____ ____ ____
 
 ''')
 
+print('Use quit() e Enter/Return para sair')
+print()
+
 while True:
     conta = input('[conta]==-> ')
     print(eval(conta))
+
+# EOF
