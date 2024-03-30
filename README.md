@@ -24,6 +24,8 @@ f_string.py => Estudos o método de formatação f-strings em Python.
 
 potencia_2.py => Código em Python para exibição de potência de 2 (inteiros) usando uma função anônima (lambda)
 
+script_grafico_dispercao.ipynb => Programa em Python que faz um gráfico de dispersão. Usando o jupyter notebook.
+
 sobre_voce.py => Algoritmo em Python. Fale sobre você. Desenvolvendo um minicurriculo (bio) para apresentação.
 
 Usando_operador_Walrus.py => Usando o operador Walrus (:=).
