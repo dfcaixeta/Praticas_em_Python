@@ -8,6 +8,8 @@ areaTriangulo.py => Programa em Python que calcula a área de um triângulo.
 
 average_grade.py => Algoritmo em Python que informa se o aluno conquistou o certificado ou não, usando a estrutura condicional (if) e operadores lógicos. (Código em inglês).
 
+calculadora_simples.py => Programa em Python que cria uma calculadora simples.
+
 calendario.py => Algoritmo em python que apresenta um calendário com ano e mês.
 
 calendario_mostra_meses.py => Algoritmo em python que apresenta um calendário dos meses com os anos.
@@ -25,6 +27,8 @@ f_string.py => Estudos o método de formatação f-strings em Python.
 potencia_2.py => Código em Python para exibição de potência de 2 (inteiros) usando uma função anônima (lambda)
 
 script_grafico_dispercao.ipynb => Programa em Python que faz um gráfico de dispersão. Usando o jupyter notebook.
+
+script_grafico_linha.ipynb => Gráfico de linha em Python. Usando o Jupyter Notebook.
 
 sobre_voce.py => Algoritmo em Python. Fale sobre você. Desenvolvendo um minicurriculo (bio) para apresentação.
 
