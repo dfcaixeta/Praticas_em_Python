@@ -8,6 +8,8 @@ areaTriangulo.py => Programa em Python que calcula a área de um triângulo.
 
 average_grade.py => Algoritmo em Python que informa se o aluno conquistou o certificado ou não, usando a estrutura condicional (if) e operadores lógicos. (Código em inglês).
 
+calculadora_simples.py => Programa em Python que cria uma calculadora simples.
+
 calendario.py => Algoritmo em python que apresenta um calendário com ano e mês.
 
 calendario_mostra_meses.py => Algoritmo em python que apresenta um calendário dos meses com os anos.
