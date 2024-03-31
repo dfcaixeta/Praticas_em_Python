@@ -24,6 +24,8 @@ dec2bin.py => Código de conversão de números decimais em binários.
 
 f_string.py => Estudos o método de formatação f-strings em Python.
 
+nota_discente.py => Algoritmo que recebe uma nota e informa se o discente passou ou não de ano.
+
 potencia_2.py => Código em Python para exibição de potência de 2 (inteiros) usando uma função anônima (lambda)
 
 script_grafico_dispercao.ipynb => Programa em Python que faz um gráfico de dispersão. Usando o jupyter notebook.
