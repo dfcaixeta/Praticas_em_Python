@@ -1,5 +1,5 @@
 ''' Algoritmo que recebe uma nota (score) e informa se passou ou não de ano.
-Versão em inglês.
+Versão em inglês. 
 
 Autor: Daniel Caixeta @dfcaixeta em 10.jun.23.'''
 
