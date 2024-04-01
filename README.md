@@ -10,6 +10,8 @@ average_grade.py => Algoritmo em Python que informa se o aluno conquistou o cert
 
 calcularAreas.py => Programa que calcula áreas de figuras geométricas apresentando fórmulas matemática.
 
+calcularPotencia.py => Programa em Python para calcular a potência de números inteiros (base e expoente) através de uma função personalizada.
+
 calculadora_simples.py => Programa em Python que cria uma calculadora simples.
 
 calendario.py => Algoritmo em python que apresenta um calendário com ano e mês.
