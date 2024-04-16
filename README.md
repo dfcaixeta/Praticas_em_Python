@@ -46,6 +46,8 @@ script_grafico_linha.ipynb => Gráfico de linha em Python. Usando o Jupyter Note
 
 sobre_voce.py => Algoritmo em Python. Fale sobre você. Desenvolvendo um minicurriculo (bio) para apresentação.
 
+unir_duaspg_png.ipynb => Programa no Jupyter Notebook (Python) que une (join) duas páginas PNG. Formato Retrato.
+
 Usando_operador_Walrus.py => Usando o operador Walrus (:=).
 
 usoFuncaoLen.py => Estudos sobre a função len() para contagem de caracteres em um string.
