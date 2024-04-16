@@ -42,6 +42,8 @@ sobre_voce.py => Algoritmo em Python. Fale sobre você. Desenvolvendo um minicur
 
 Usando_operador_Walrus.py => Usando o operador Walrus (:=).
 
+usoFuncaoLen.py => Estudos sobre a função len() para contagem de caracteres em um string.
+
 voce_pode_dirigir_v_1.py => Algoritmo em Python com estrutura condicional if que pergunta sem tem idade para dirigir. (Versão 1).
 
 voce_pode_dirigir_v_2.py => Algoritmo em Python com estrutura condicional if e operador lógico AND que pergunta sem tem idade para dirigir. (Versão 2).
