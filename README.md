@@ -36,7 +36,9 @@ nota_discente.py => Algoritmo que recebe uma nota e informa se o discente passou
 
 pass_grade.py => Algoritmo que recebe uma nota (score) e informa se passou ou não de ano. Versão em inglês.
 
-potencia_2.py => Código em Python para exibição de potência de 2 (inteiros) usando uma função anônima (lambda)
+potencia_2.py => Código em Python para exibição de potência de 2 (inteiros) usando uma função anônima (lambda).
+
+processarImagens.py => Programa em Python que processa imagens, fotos, etc.
 
 script_grafico_dispercao.ipynb => Programa em Python que faz um gráfico de dispersão. Usando o jupyter notebook.
 
