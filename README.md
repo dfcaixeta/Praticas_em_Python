@@ -24,6 +24,8 @@ can_you_drive_2.py => Algoritmo em Python com estrutura condicional IF e operado
 
 can_you_drive_3.py => Algoritmo em Python com estrutura condicional IF, operador lógico AND e operador de comparação TRUE que pergunta sem tem idade para dirigir. (Versão 3). (Versão inglês).
 
+criarDiagramas.py => Criando um diagrama de rede usando as bibliotecas diagrams.
+
 criarGraficoBarras.py => Criando um gráfico de barras de produtos A e B com as libs matplotlib e numpy.
 
 dec2bin.py => Código de conversão de números decimais em binários.
