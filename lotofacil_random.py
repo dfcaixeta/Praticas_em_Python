@@ -62,26 +62,26 @@ random.shuffle(unique_list)
 
 # print("Resultado: ", sorted(unique_list[0:15])) # Outro método para gerar uma lista ...
 
-# Criando 7 interações possíveis com os números processados ...
+# Criando 3 interações possíveis com os números processados ...
 
 random_list1 = random.sample(unique_list, 15)
 random_list2 = random.sample(unique_list, 15)
-#random_list3 = random.sample(unique_list, 15)
-#random_list4 = random.sample(unique_list, 15)
-#random_list5 = random.sample(unique_list, 15)
-#random_list6 = random.sample(unique_list, 15)
-#random_list7 = random.sample(unique_list, 15)
+random_list3 = random.sample(unique_list, 15)
+random_list4 = random.sample(unique_list, 15)
+random_list5 = random.sample(unique_list, 15)
+random_list6 = random.sample(unique_list, 15)
+random_list7 = random.sample(unique_list, 15)
 
 # Impressão das interações processadas.
 
-print('Resultado da interação para {2} interações:')
+print('Resultado da interação para {7} interações:')
 print(f'Resultado {1}', sorted(random_list1))
 print(f'Resultado {2}', sorted(random_list2))
-#print(f'Resultado {3}', sorted(random_list3))
-#print(f'Resultado {4}', sorted(random_list4))
-#print(f'Resultado {5}', sorted(random_list5))
-#print(f'Resultado {6}', sorted(random_list6))
-#print(f'Resultado {7}', sorted(random_list7))
+print(f'Resultado {3}', sorted(random_list3))
+print(f'Resultado {4}', sorted(random_list4))
+print(f'Resultado {5}', sorted(random_list5))
+print(f'Resultado {6}', sorted(random_list6))
+print(f'Resultado {7}', sorted(random_list7))
 
 print('')
 
